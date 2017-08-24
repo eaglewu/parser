@@ -3,8 +3,6 @@ package lexer
 import (
 	"testing"
 
-	"github.com/eaglewu/parser/lexer"
-
 	"github.com/eaglewu/parser/token"
 )
 
